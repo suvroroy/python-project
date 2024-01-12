@@ -6,34 +6,21 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')
-    #print("ax+b=c")# Press ⌘F8 to toggle the breakpoint.
-    #var1 = "hello"
-    #var2 = 1
-    #x = 10
-    #y = 9
-    #print (str(input("what is your name?")))
-    #str1 = "hello"
-    #str2 = "hello"
-    #print ( "str1= ", id(str1))
-    #print("str2= ", id(str2))
-    # my_first_division = 10/3
-    # print(type(my_first_division))
-    #print( type(my_first_division = 10/3))
+    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    # I'm going to comment all line1
+    # I'm going to comment all line2
+    # I'm going to comment all line2
 
-    # l = [50, 35, 78, 66, 17]
-    # print(l.reverse())
-# create a list of prime numbers
-    prime_numbers = [2, 3, 5, 7]
+    # l = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    # print(l[-1])
 
-# reverse the order of list elements
-    prime_numbers.reverse()
-
-
-    print('Reversed List:', prime_numbers)
-
-# Output: Reversed List: [7, 5, 3, 2]
-
+    # s = "best technical interview prep courses"
+    # s = "kickstart"
+    s = "K"
+    # l = s.split()
+    # strng = str(l)
+    print(s.lower())
+    # print(strng)
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
